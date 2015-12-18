@@ -12,7 +12,6 @@
   "author": "Chion82 <sdspeedonion@gmail.com>",
   "license": "GPL-3.0",
   "dependencies": {
-    "skrollr": "^0.6.26"
   },
   "devDependencies": {
     "babel-core": "^6.3.21",
