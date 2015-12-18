@@ -38,8 +38,6 @@ gulp.task('update_source', (callback)=>{
 		.pipe(gulpif('*.html', gulp.dest('./') , gulp.dest('./dist/stylesheets')));
 });
 
-gulp.task('build', ['webpack' ,'update_source']);
-
 gulp.task("webpack-dev-server", (callback)=> {
 	let compiler = webpack(webpackConfig);
 
@@ -51,9 +49,13 @@ gulp.task("webpack-dev-server", (callback)=> {
 		});
 });
 
-gulp.task('default', ['build', 'webpack-dev-server']);
+gulp.task('default', ['watch']);
 
-gulp.task('watch', (callback)=>{
-	gulp.watch('./src/**/*', ['build'])
+gulp.task('build', ['webpack' ,'update_source']);
+
+gulp.task('watch_source', ['build'], (callback)=>{
+	gulp.watch('./src/**/*', ['build']);
 });
+
+gulp.task('watch' , ['watch_source', 'webpack-dev-server'])
 
