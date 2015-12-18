@@ -1,0 +1,313 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hide_to_",
+				"hide_to_strangers_checkbox"
+			],
+			[
+				"hide",
+				"hide_to_strangers_checkbox"
+			],
+			[
+				"hide_to",
+				"hide_to_friends_checkbox"
+			],
+			[
+				"hid",
+				"hide_to_strangers_checkbox"
+			],
+			[
+				"visible",
+				"visible_online_users"
+			],
+			[
+				"get",
+				"get_friends"
+			],
+			[
+				"vcd",
+				"vcode_phone"
+			],
+			[
+				"vcode",
+				"vcode_phone"
+			],
+			[
+				"st",
+				"start_response"
+			],
+			[
+				"la",
+				"last_active"
+			],
+			[
+				"attak",
+				"attackCreated"
+			],
+			[
+				"atta",
+				"attackCreated"
+			],
+			[
+				"symb",
+				"symbolFile"
+			],
+			[
+				"sym",
+				"symbolMap"
+			],
+			[
+				"sy",
+				"symbolMapLen"
+			],
+			[
+				"current",
+				"currentLine"
+			],
+			[
+				"lexeme",
+				"lexemeType"
+			],
+			[
+				"lexem",
+				"lexemeType"
+			],
+			[
+				"prnt",
+				"printLexeme"
+			],
+			[
+				"lexe",
+				"lexemeType"
+			],
+			[
+				"le",
+				"lexemeType"
+			],
+			[
+				"lex",
+				"lexeme"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chiontang/Documents/SysLab.us"
+	],
+	"file_history":
+	[
+		"/Users/chiontang/Documents/Xiaoyu/www/api/statistics.py",
+		"/Users/chiontang/Documents/Xiaoyu/www/api/user.py",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/html/app.html",
+		"/Users/chiontang/Documents/Xiaoyu/www/api/wall.py",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/scripts/app.js",
+		"/Users/chiontang/Documents/xiaoyu_frontend/index.html",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/html/pages/index.html",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/html/pages/profile.html",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/html/pages/user_details.html",
+		"/Users/chiontang/Documents/Xiaoyu/www/urls.py",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/html/pages/message_center.html",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/scripts/message_center.js",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/html/components/left_panel.html",
+		"/Users/chiontang/Documents/Xiaoyu/www/model.py",
+		"/Users/chiontang/Documents/Xiaoyu/www/api/friends.py",
+		"/Users/chiontang/Documents/Xiaoyu/www/app.py",
+		"/Users/chiontang/Documents/Xiaoyu/www/api/chat.py",
+		"/Users/chiontang/Documents/xiaoyu_frontend/reset_password.html",
+		"/Users/chiontang/Documents/xiaoyu_frontend/register.html",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/scripts/guest_wall.js",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/html/pages/edit_profile.html",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/scripts/edit_profile.js",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/stylesheets/login.less",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/scripts/chat.js",
+		"/Users/chiontang/Documents/xiaoyu_frontend/static/lib/jquery.ajaxfileupload.js",
+		"/Users/chiontang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/chiontang/Documents/xiaoyu_frontend/custom_pages/vote.html",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/html/pages/notification.html",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/scripts/user_operation_actions.js",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/scripts/wall.js",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/scripts/profile.js",
+		"/Users/chiontang/Documents/xiaoyu_frontend/src/scripts/user_details.js",
+		"/Users/chiontang/Documents/Xiaoyu/www/api/photo.py",
+		"/Users/chiontang/Documents/实验/词法分析_邓智安_2014220203004/source/main.c",
+		"/Users/chiontang/Documents/development/main.c",
+		"/Users/chiontang/Documents/实验/StrategyGame/src/com/chiontang/strategygame/Main.java",
+		"/Users/chiontang/Documents/实验/StrategyGame/src/com/chiontang/strategygame/Assassin.java",
+		"/Users/chiontang/Documents/实验/StrategyGame/src/com/chiontang/strategygame/IllegalHeroException.java",
+		"/Users/chiontang/Documents/实验/StrategyGame/src/com/chiontang/strategygame/Attack.java",
+		"/Users/chiontang/Documents/实验/StrategyGame/src/com/chiontang/strategygame/InsufficientMagicPointException.java",
+		"/Users/chiontang/Documents/实验/StrategyGame/src/com/chiontang/strategygame/IllegalAttackException.java",
+		"/Users/chiontang/Documents/实验/StrategyGame/src/com/chiontang/strategygame/IllegalInstructionException.java",
+		"/Users/chiontang/Documents/实验/StrategyGame/src/com/chiontang/strategygame/Knight.java",
+		"/Users/chiontang/Documents/实验/词法分析/main_utf8.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"onlines",
+			"Friend",
+			"setOnline",
+			"摩羯",
+			"/api/user/password/edit",
+			"/api/test",
+			"reset",
+			"<!--.*?-->",
+			"school",
+			"online",
+			"setOnlineS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "syslab.us.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
