@@ -33,7 +33,7 @@ gulp.task('update_source', (callback)=>{
 	return gulp.src(['./src/html/**/*.html' , './src/stylesheets/**/*.less'])
 		.pipe(gulpif('*.html', minifyHTML()))
 		.pipe(gulpif('*.less', less({
-				paths : [ './scripts/stylesheets/includes' ]
+				paths : [ './src/stylesheets/includes' ]
 			})))
 		.pipe(gulpif('*.html', gulp.dest('./') , gulp.dest('./dist/stylesheets')));
 });
