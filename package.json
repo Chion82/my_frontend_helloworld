@@ -1,7 +1,7 @@
 {
-  "name": "syslab.us",
+  "name": "hello_world",
   "version": "1.0.0",
-  "description": "Home page for syslab.us",
+  "description": "Hello World",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
